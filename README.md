@@ -28,7 +28,7 @@ cp .env.local.example .env.local  # edit credentials
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+Open [http://localhost:3004](http://localhost:3004).
 
 ## Environment Variables
 
