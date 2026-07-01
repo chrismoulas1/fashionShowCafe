@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "f001",
+      "name": "Velvet Evening Gown",
+      "description": "Exquisite deep burgundy velvet evening gown with a plunging neckline and floor-length silhouette. Features hand-sewn beading along the bodice and a dramatic open back. Perfect for galas and upscale events.",
+      "price": 1850,
+      "category": "fashion",
+      "images": [
+        "/uploads/placeholder-fashion-1.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2024-01-15T10:00:00.000Z",
+      "updatedAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "f002",
+      "name": "Silk Midi Dress",
+      "description": "Fluid ivory silk midi dress with a wrap silhouette and delicate floral print. The adjustable tie-waist creates a flattering fit for all body types. Ideal for cocktail parties and daytime elegance.",
+      "price": 780,
+      "category": "fashion",
+      "images": [
+        "/uploads/placeholder-fashion-2.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2024-01-20T10:00:00.000Z",
+      "updatedAt": "2024-01-20T10:00:00.000Z"
+    },
+    {
+      "id": "f003",
+      "name": "Structured Blazer Dress",
+      "description": "Modern power-dressing at its finest. This structured blazer dress in charcoal grey features sharp lapels, a cinched waist belt, and a thigh-high hemline. A statement piece for the contemporary woman.",
+      "price": 1240,
+      "category": "fashion",
+      "images": [
+        "/uploads/placeholder-fashion-3.jpg"
+      ],
+      "featured": false,
+      "createdAt": "2024-02-01T10:00:00.000Z",
+      "updatedAt": "2024-02-01T10:00:00.000Z"
+    },
+    {
+      "id": "f004",
+      "name": "Lace Cocktail Dress",
+      "description": "Romantic black lace cocktail dress with a sweetheart neckline and fitted silhouette. The intricate floral lace pattern overlays a satin lining, creating a timeless and sophisticated look.",
+      "price": 920,
+      "category": "fashion",
+      "images": [
+        "/uploads/placeholder-fashion-4.jpg"
+      ],
+      "featured": false,
+      "createdAt": "2024-02-10T10:00:00.000Z",
+      "updatedAt": "2024-02-10T10:00:00.000Z"
+    },
+    {
+      "id": "w001",
+      "name": "Celestial Princess Gown",
+      "description": "A breathtaking princess-cut wedding gown featuring a corseted bodice adorned with thousands of hand-placed crystals and pearls. The cathedral-length train cascades in layers of the finest French tulle, creating an ethereal silhouette for the modern fairytale bride.",
+      "price": 5800,
+      "category": "wedding",
+      "images": [
+        "/uploads/placeholder-wedding-1.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2024-01-10T10:00:00.000Z",
+      "updatedAt": "2024-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "w002",
+      "name": "Serene Mermaid Gown",
+      "description": "An elegantly sculpted mermaid gown in ivory crepe that hugs every curve. The illusion back is adorned with delicate floral appliqués and covered buttons. A detachable silk train adds drama for the reception. For the bride who dares to be bold.",
+      "price": 4950,
+      "category": "wedding",
+      "images": [
+        "/uploads/placeholder-wedding-2.jpg"
+      ],
+      "featured": true,
+      "createdAt": "2024-01-18T10:00:00.000Z",
+      "updatedAt": "2024-01-18T10:00:00.000Z"
+    },
+    {
+      "id": "w003",
+      "name": "Bohemian Garden Dress",
+      "description": "A free-spirited A-line wedding dress crafted from lightweight chiffon with delicate lace inserts. Features flutter sleeves, a V-neckline with floral embroidery, and a soft sweep train. Perfect for outdoor and destination weddings.",
+      "price": 3200,
+      "category": "wedding",
+      "images": [
+        "/uploads/placeholder-wedding-3.jpg"
+      ],
+      "featured": false,
+      "createdAt": "2024-02-05T10:00:00.000Z",
+      "updatedAt": "2024-02-05T10:00:00.000Z"
+    },
+    {
+      "id": "w004",
+      "name": "Timeless Ball Gown",
+      "description": "The quintessential fairytale ball gown in blush champagne. Featuring a structured sweetheart bodice with 3D floral appliqués and a voluminous tulle skirt with a royal-length train. For the bride who dreams of a classic, unforgettable entrance.",
+      "price": 6500,
+      "category": "wedding",
+      "images": [
+        "/uploads/placeholder-wedding-4.jpg"
+      ],
+      "featured": false,
+      "createdAt": "2024-02-15T10:00:00.000Z",
+      "updatedAt": "2024-02-15T10:00:00.000Z"
+    }
+  ]
+}
